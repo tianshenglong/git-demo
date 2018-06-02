@@ -22,4 +22,8 @@ public class A {
     public void select(){
         System.out.println("aaa");
     }
+    
+    public void select(){
+        System.out.println("aaa");
+    }
 }
