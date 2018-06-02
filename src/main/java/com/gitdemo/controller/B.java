@@ -9,4 +9,8 @@ public class B {
         System.out.println("bbbbbbb");
     }
 
+    public void c(){
+        System.out.println("ccccccc");
+    }
+
 }
