@@ -1,4 +1,4 @@
-package com.gitdemo.gitdemo;
+package com.gitdemo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
