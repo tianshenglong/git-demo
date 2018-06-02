@@ -7,11 +7,15 @@ public class A {
     }
     
     public void b(){
-        System.out.println("aaaaa");
+        System.out.println("bbb");
     }
 
     public void c(){
-        System.out.println("ccccccc");
+        System.out.println("ccc111c");
+    }
+    
+    public void d(){
+        System.out.println("dddd");
     }
 
 }
