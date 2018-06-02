@@ -5,4 +5,8 @@ public class A {
     public void add(){
         System.out.println("tianjia");
     }
+
+  public void update(){
+
+    }
 }
