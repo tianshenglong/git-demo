@@ -10,5 +10,8 @@ public class A {
         System.out.println("aaaaa");
     }
 
+    public void c(){
+        System.out.println("ccccccc");
+    }
 
 }
