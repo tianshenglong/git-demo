@@ -18,4 +18,10 @@ public class A {
         System.out.println("dddd");
     }
 
+    public void e(){
+        System.out.println("eeeee");
+    }
+
+
+
 }
