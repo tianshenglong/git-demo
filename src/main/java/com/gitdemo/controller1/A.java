@@ -21,6 +21,10 @@ public class A {
     public void e(){
         System.out.println("eeeee");
     }
+    
+    public void m(){
+        System.out.println("eeeee");
+    }
 
     public void n(){
         System.out.println("eeeee");
