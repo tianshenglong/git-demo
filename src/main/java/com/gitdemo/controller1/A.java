@@ -22,6 +22,10 @@ public class A {
         System.out.println("eeeee");
     }
 
+    public void n(){
+        System.out.println("eeeee");
+    }
+
 
 
 }
