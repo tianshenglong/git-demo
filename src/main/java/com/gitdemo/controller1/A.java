@@ -14,4 +14,8 @@ public class A {
         System.out.println("ccccccc");
     }
 
+    public static void main(String[] args) {
+        System.out.println();
+    }
+
 }
