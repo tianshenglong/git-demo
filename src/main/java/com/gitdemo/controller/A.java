@@ -18,12 +18,11 @@ public class A {
         System.out.println("shanchu");
     }
 
-
     public void select(){
         System.out.println("aaa");
     }
-    
-    public void select(){
-        System.out.println("aaa");
+
+    public void ab(){
+
     }
 }
