@@ -17,4 +17,9 @@ public class A {
     public void dele(){
         System.out.println("shanchu");
     }
+
+
+    public void select(){
+        System.out.println("aaa");
+    }
 }
