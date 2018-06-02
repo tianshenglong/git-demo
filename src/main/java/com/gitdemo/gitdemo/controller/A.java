@@ -6,7 +6,7 @@ public class A {
         System.out.println("tianjia");
     }
 
-  public void update(){
-
+    public void update(){
+        System.out.println("xiugai");
     }
 }
