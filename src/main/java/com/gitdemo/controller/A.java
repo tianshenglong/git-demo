@@ -1,4 +1,4 @@
-package com.gitdemo.gitdemo.controller;
+package com.gitdemo.controller;
 
 public class A {
 
