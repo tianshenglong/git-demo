@@ -5,5 +5,10 @@ public class A {
     public void a(){
         System.out.println("aaaaa");
     }
+    
+    public void b(){
+        System.out.println("aaaaa");
+    }
+
 
 }
