@@ -13,7 +13,7 @@ public class A {
     public void c(){
         System.out.println("ccc111c");
     }
-    
+
     public void d(){
         System.out.println("dddd");
     }
@@ -21,7 +21,7 @@ public class A {
     public void e(){
         System.out.println("eeeee");
     }
-    
+
     public void m(){
         System.out.println("eeeee");
     }
@@ -31,5 +31,9 @@ public class A {
     }
 
 
+
+    public static void main(String[] args) {
+        System.out.println();
+    }
 
 }
