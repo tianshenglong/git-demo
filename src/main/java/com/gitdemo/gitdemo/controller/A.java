@@ -13,4 +13,8 @@ public class A {
     public void adda(){
         System.out.println("tianjia");
     }
+
+    public void dele(){
+        System.out.println("shanchu");
+    }
 }
