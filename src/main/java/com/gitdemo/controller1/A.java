@@ -18,18 +18,9 @@ public class A {
         System.out.println("dddd");
     }
 
-    public void e(){
-        System.out.println("eeeee");
+    public String aaaa(){
+        return null;
     }
-
-    public void m(){
-        System.out.println("eeeee");
-    }
-
-    public void n(){
-        System.out.println("eeeee");
-    }
-
 
 
     public static void main(String[] args) {
